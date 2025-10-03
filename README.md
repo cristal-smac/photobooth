@@ -50,7 +50,11 @@ Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 
 ## Photo-maton Example
+Tire son nom des célèbres cabines photo de l'entreprise Française [photomaton](https://fr.wikipedia.org/wiki/Photomaton) qui fournissaient 4 portaits en 2x2.
+
 ![alt text](pics/joconde_patchwork.png)
 
 ## Boulanger Example
+Comme le fait le boulanger pour pétrir la pâte, à chaque étape on étire la pâte et on le replie sur elle-même.
+
 ![alt text](pics/chambord_patchwork.png)
