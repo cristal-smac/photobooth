@@ -39,8 +39,6 @@ initialement.
 La plus spectaculaire : Le Photo-Maton
 On prend chaque bloc de 4 pixels, et on fait en sorte que chacun de
 ces 4 pixels s'en aille dans les 4 grandes parties de l'image.
-(dessin avec le bloc de 4 en haut-gauche, et son éparpillement)
-
 Après une étape, on a l'impression d'avoir recopié 4 fois l'image en
 petit, mais il n'en n'est rien ! C'est bien de 4 images différentes
 qu'il s'agit. Elles se ressemblent mais elles sont différentes ! 
