@@ -53,6 +53,6 @@ Tire son nom des célèbres cabines photo de l'entreprise Française [photomaton
 ![alt text](pics/joconde_patchwork.png)
 
 ## Boulanger Example
-Comme le fait le boulanger pour pétrir la pâte, à chaque étape on étire la pâte et on le replie sur elle-même.
+Comme le fait le boulanger pour pétrir la pâte, à chaque étape on étire la pâte et on la replie sur elle-même.
 
 ![alt text](pics/chambord_patchwork.png)
