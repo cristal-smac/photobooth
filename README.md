@@ -27,14 +27,14 @@ Parmi les plus connues :
 - la transformation du boulanger
 
 
-la plus simple à comprendre est la translation à droite :
-f(x,y) -> f(x+1 modulo taille , y) On comprend bien que au bout d'un nombre
-d'étapes équivalent à la taille de l'image, tout sera revenu comme
-initialement.
-
 Parce que c'est une bijection, à force de l'appliquer, on retombe sur
 la même image au bout d'un certain temps. C'est une propriété de
 TOUTES les bijections dans un ensemble fini. 
+
+La plus simple à comprendre est la translation à droite :
+f(x,y) -> f(x+1 modulo taille , y) On comprend bien que au bout d'un nombre
+d'étapes équivalent à la taille de l'image, tout sera revenu comme
+initialement.
 
 La plus spectaculaire : Le Photo-Maton
 On prend chaque bloc de 4 pixels, et on fait en sorte que chacun de
@@ -49,7 +49,7 @@ qu'il s'agit. Elles se ressemblent mais elles sont différentes !
 Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristal-smac/photobooth.git/main?filepath=photobooth_fr.ipynb)
 
 
-## Photomaton Example
+## Photo-maton Example
 ![alt text](pics/joconde_patchwork.png)
 
 ## Boulanger Example
