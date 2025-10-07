@@ -47,7 +47,7 @@ qu'il s'agit. Elles se ressemblent mais elles sont différentes !
 Ce Jupyter Notebook explique les différentes notions et la manière de les implémenter.
 Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristal-smac/photobooth.git/main?filepath=photobooth_fr.ipynb)
 
-L'application de l'article PLS 166 de 2007 est disponible [ici](transfo.jar)
+L'application de l'article PLS 166 de 2007 est disponible [ici](https://github.com/cristal-smac/photobooth/raw/main/transfo.jar)
 
 
 ## Photo-maton Example
