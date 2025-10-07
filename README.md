@@ -45,10 +45,10 @@ qu'il s'agit. Elles se ressemblent mais elles sont différentes !
 
 ## Notebook
 Ce Jupyter Notebook explique les différentes notions et la manière de les implémenter.
-Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristal-smac/photobooth.git/main?filepath=photobooth_fr.ipynb)
+Le lien "Binder" ci-dessous évite d'installer quoi que ce soit. Cliquez simplement sur l'icône. <br>Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristal-smac/photobooth.git/main?filepath=photobooth_fr.ipynb)
 
-L'application de l'article PLS 166 de 2007 est disponible [ici](https://github.com/cristal-smac/photobooth/raw/main/transfo.jar)
-
+L'application de l'article PLS 166 de 2007 est disponible [ici](https://github.com/cristal-smac/photobooth/raw/main/transfo.jar)<br>
+Elle offre de nombreuses possibilités dont le tracé de chemins d'un pixel, la sauvegarde des résultats obtenus ou le "Goto" à une étape précise. Les images ci-dessous ont été réalisées avec celle-ci.
 
 ## Photo-maton Example
 Tire son nom des célèbres cabines photo de l'entreprise Française [photomaton](https://fr.wikipedia.org/wiki/Photomaton) qui fournissaient 4 portaits en 2x2.
