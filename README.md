@@ -44,7 +44,10 @@ petit, mais il n'en n'est rien ! C'est bien de 4 images différentes
 qu'il s'agit. Elles se ressemblent mais elles sont différentes ! 
 
 ## Notebook
+Ce Jupyter Notebook explique les différentes notions et la manière de les implémenter.
 Français : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cristal-smac/photobooth.git/main?filepath=photobooth_fr.ipynb)
+
+L'application de l'article PLS 166 de 2007 est disponible [ici](transfo.jar)
 
 
 ## Photo-maton Example
